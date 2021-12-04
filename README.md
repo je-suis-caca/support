@@ -1,6 +1,6 @@
 # Contre les Acronymes dans le Code des Applications
 
-![CACA](./logo-hq.png | width=300)
+<img src="https://github.com/je-suis-caca/support/raw/main/logo-hq.png" alt="CACA" width="300">
 
 
 ## Comment joindre le mouvement ?
